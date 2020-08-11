@@ -1,6 +1,3 @@
-import imageio
-import skimage
-from skimage import transform
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tkinter import *
