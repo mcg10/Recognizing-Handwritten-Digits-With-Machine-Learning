@@ -5,3 +5,5 @@ In this project, I developed a convolutional neural network (CNN) that created a
 * NumPy
 * PIL
 * SciPy V 1.1.0*
+
+/*
