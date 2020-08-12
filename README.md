@@ -6,4 +6,4 @@ In this project, I developed a convolutional neural network (CNN) that created a
 * PIL
 * SciPy V 1.1.0*
 
-/*
+*There were issues with array resizing and image reading using packages like imageio and scikit-image, so I used some deprecated libraries from SciPy to properly read the data. I hope to resolve this issue with more modern libraries in the future.
